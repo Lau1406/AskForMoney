@@ -5,7 +5,7 @@ The `gmail_api.py` is based on the work of Chris Brown [GitHub Chris Brown](http
 ### Author
 Made by L.J. Keijzer. Treasurer of E.S.Z.V. Boreas 2017-2018 [GitHub](https://github.com/Lau1406 "My GitHub")
 
-### Virtual Env
+## Virtual Env
 In order to easily install all python packages, a virtual environment can be used. [This](https://docs.python-guide.org/dev/virtualenvs/) guide can be used to set this up.
 After installing the virtual environment and activating it, install all the packages by first going to the root directory of this project and then running `pip install -r requirements.txt`.
 
