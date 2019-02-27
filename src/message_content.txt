@@ -1,0 +1,10 @@
+Dear <<D_NAME>>,
+
+According to our administration you owe us <<T_AMOUNT>> euro for the following things:
+<<REASONS>>
+Please transfer the amount of <<T_AMOUNT>> euro to <<ACCOUNT>> in the name of <<C_NAME>>, under the name: Debit payment <<D_NAME>>.
+
+Yours sincerely,
+
+<<T_NAME>>
+Treasurer <<C_NAME>>
